@@ -1,0 +1,41 @@
+<legge190:pubblicazione xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:legge190="legge190_1_0" xsi:schemaLocation="legge190_1_0 datasetAppaltiL190.xsd">
+<metadata>...</metadata>
+<data>
+<lotto>
+<cig>570809984D</cig>
+<strutturaProponente>
+<codiceFiscaleProp>00100630573</codiceFiscaleProp>
+<denominazione>UFFICIO TECNICO</denominazione>
+</strutturaProponente>
+<oggetto>
+INTERVENTO DI UTILIZZAZIONE SELVICOLTURALE DEL BOSCO CEDUO MATRICINATO MATURO IN LOCALITA'"MONTE ROTONDO" INDIZIONE 4^ ESPERIMENTO DI ASTA -
+</oggetto>
+<sceltaContraente>02-PROCEDURA RISTRETTA</sceltaContraente>
+<partecipanti></partecipanti>
+<aggiudicatari></aggiudicatari>
+<importoAggiudicazione>0</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2015-01-22</dataInizio>
+</tempiCompletamento>
+<importoSommeLiquidate>0</importoSommeLiquidate>
+</lotto>
+<lotto>
+<cig>589487BE7</cig>
+<strutturaProponente>
+<codiceFiscaleProp>00100630573</codiceFiscaleProp>
+<denominazione>UFFICIO TECNICO</denominazione>
+</strutturaProponente>
+<oggetto>
+INTERVENTO DI UTILIZZAZIOEN SELVICOLTURALE DI FINE TURNO DEL BOSCO CEDUO IN LOCALITA'"VALLE FILETTO" - INDIZIONE 3^ ESPERIMENTO DI ASTA
+</oggetto>
+<sceltaContraente>02-PROCEDURA RISTRETTA</sceltaContraente>
+<partecipanti></partecipanti>
+<aggiudicatari></aggiudicatari>
+<importoAggiudicazione>0</importoAggiudicazione>
+<tempiCompletamento>
+<dataInizio>2015-01-22</dataInizio>
+</tempiCompletamento>
+<importoSommeLiquidate>0</importoSommeLiquidate>
+</lotto>
+</data>
+</legge190:pubblicazione>
